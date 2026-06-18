@@ -38,10 +38,18 @@ Currently learning about Backend, Frontend and Cloud fundamentals, besides new t
  <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>    <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> 
 
-<img align="right" height="130" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaJ06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=0d1117&title_color=2ea44f&text_color=8b949e&icon_color=2ea44f&hide_border=false" height="150" alt="languages graph" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaJ06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=0d1117&title_color=2ea44f&text_color=8b949e&icon_color=2ea44f&hide_border=false" height="150" alt="languages graph" />
+  
+</p>
 
+<p align="center">
+ <img  height="200" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  />
+ 
+<h6 align="center">Always watching!</h6>
+ 
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaJ06/RafaJ06/output/github-snake-dark.svg">

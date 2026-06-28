@@ -40,8 +40,8 @@ Currently learning about Backend, Frontend and Cloud fundamentals, besides new t
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaJ06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=0d1117&title_color=2ea44f&text_color=8b949e&icon_color=2ea44f&hide_border=false" height="150" alt="languages graph" />
-  
+  <!-- Tarjeta de Tus Lenguajes Más Usados -->
+  <img src="https://raw.githubusercontent.com/RafaJ06/RafaJ06/main/profile/top-langs.svg" alt="Mis Lenguajes Más Usados" height="150" />
 </p>
 
 <p align="center">
